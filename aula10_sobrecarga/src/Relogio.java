@@ -52,5 +52,6 @@ public class Relogio {
     public void setSegundo(int segundo) {
         this.segundo = segundo;
     }
+    //commit
     
 }
